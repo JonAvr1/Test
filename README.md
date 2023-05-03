@@ -10,4 +10,4 @@ Stranded. Yes, she was now the first person ever to land on Venus, but that was 
 
 ##PEOPLE
 
-# **Phillip was here**
+# *Phillip was here*
